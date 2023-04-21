@@ -6,6 +6,13 @@ For more documentation see [daisydiff.github.io](https://daisydiff.github.io/).
 The  maintenance of this repository by the [Nuxeo organization](https://github.com/nuxeo) is now strictly limited to critical security fixes.
 If you need some other kind of maintenance, please check the repository's [forks](https://github.com/DaisyDiff/DaisyDiff/network/members) or fork it yourself.
 
+# How to build locally
+* Clone the project
+* Install maven on your system
+* Open a command prompt inside the cloned project directory
+* Run "mvn package"
+* Done!
+
 # Standalone usage
 ```
 java -jar daisydiff-1.2-NX4-SNAPSHOT-jar-with-dependencies.jar [oldHTML] [newHTML] [optional arguments]
