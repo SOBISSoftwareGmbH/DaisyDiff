@@ -35,7 +35,7 @@
       <dependency>
         <groupId>org.eclipse.core.runtime</groupId>
         <artifactId>eclipse-core-runtime</artifactId>
-        <version>20070801</version>
+        <version>20070530</version>
       </dependency>
       <dependency>
         <groupId>xerces</groupId>
