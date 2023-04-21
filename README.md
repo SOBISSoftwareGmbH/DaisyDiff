@@ -10,7 +10,7 @@ If you need some other kind of maintenance, please check the repository's [forks
 * Clone the project
 * Install maven on your system
 * Open a command prompt inside the cloned project directory
-* Run "mvn package"
+* Run "mvn package" OR "mvn package -Dmaven.test.skip" (to skip the tests)
 * Done!
 
 # Standalone usage
